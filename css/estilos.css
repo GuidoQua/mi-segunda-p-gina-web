@@ -38,6 +38,10 @@ a{
     text-decoration: underline;
 }
 
+#padding-indumentaria-button{
+    padding: .5rem .5rem .5rem 0;
+}
+
 .form__shadow--box:focus{
     box-shadow: 0 0 5px 2px #a4a4a4;
     border-color: #a4a4a4;
@@ -812,8 +816,8 @@ details[open] summary::before {
         width: 60%;
     }
 
-    .padding-mobile{
-        margin-left: .3rem;
+    #padding-indumentaria-button{
+        padding: .6rem .5rem 0 .5rem;
     }
 
 }
