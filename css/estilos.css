@@ -285,7 +285,7 @@ a{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 50vh;
+        margin: 1rem 0;
     }
 
     .container__carrito-hijo{
@@ -294,7 +294,7 @@ a{
         justify-content: center;
         align-items: center;
         width: 60%;
-        height: 80%;
+        height: 25rem;
         padding: 2rem;
         border: 1px solid #212529b6;
         border-radius: .5rem;
@@ -857,6 +857,11 @@ details[open] summary::before {
 
     .borde-top{
         border-top: 1px solid #21252986;
+    }
+
+    .container__carrito-hijo{
+        width: 85%;
+        height: 20rem;
     }
 
 } 
