@@ -812,6 +812,10 @@ details[open] summary::before {
         width: 60%;
     }
 
+    .padding-mobile{
+        margin-left: .3rem;
+    }
+
 }
 
 @media screen and (max-width: 768px){
